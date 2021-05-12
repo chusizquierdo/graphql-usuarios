@@ -1,4 +1,4 @@
-# instagram-clone
+# graphql-usuarios
 
 Primeros pasos.
 Este proyecto esta realizado en GRAPHQL para aprender su uso junto a mongodb
